@@ -1,0 +1,27 @@
+.input-group-addon-in{
+    padding: 6px 12px !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 1 !important;
+    color: #555 !important;
+    text-align: center !important;
+    background-color: #eee !important;
+    border-radius: 4px !important;
+}
+.button-style{
+
+    margin-right: 6px !important;
+    border-radius: 3px !important;
+}
+
+.fa-delete{
+    margin-top: -2px;
+    margin-left: -1px;
+    color: white;
+}
+.fa-eye{
+    margin-top: -2px;
+}
+.fa-edit{
+    margin-left: 2px;
+}
